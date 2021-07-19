@@ -9,6 +9,8 @@ If the selection is true, user will gain 10 points else user will need to select
 
 Upon completion, user can input name to save the score they acquired and can see previous attempts
 
+Link: https://bee-13.github.io/JS-Quiz/
+
 ![](images/quiz-4.png)
 
 ![](images/quiz-3.png)
