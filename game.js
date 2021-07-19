@@ -50,7 +50,7 @@ let questions = [
     choice2: "25%",
     choice3: "55%",
     choice4: "75%",
-    answer: 1
+    answer: 3
   }
 ];
 
